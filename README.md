@@ -1,14 +1,15 @@
 # SEP11 Freedom Project
-by X
+by Fuad Farhan
 
 ## Context
-The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
+The "Freedom Project" for SEP11 is all about using Javascript to make something for the real world. The purpose of this blog is to record and journal the whole process of making my Freedom Project throughout
+the year.
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, me and my partner Kyle are making a 3d visual model of a shoe. This blog will walk through my process of independently studying on how to make 3d models using javascript in order to make the 3d model of the sneaker.
 
 ## Links
-
+[no links yet]
 Product
 
 Presentation
