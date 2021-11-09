@@ -13,7 +13,7 @@ impact on society because of that reason.
 
 * Me and Kyle are going to model a sneaker and we will make it rotate around so people can see the visuals and the detail in each area of the shoe model. 
 
-[link to the tool for the Project](https://threejs.org/)
+[Link to the tool for the Project](https://threejs.org/)
 
 [Next](entry02.md)
 
