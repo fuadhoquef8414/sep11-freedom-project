@@ -18,7 +18,14 @@ large files and keeps in there because your local ide can't hold on to big files
 
 ### Next Step
 Now that we know how to set up our ide to being linked with `three.js` we could actually start learning about how to set 3d model using `javascript` and during our learning process we could start to code and explore. 
-We were stuck for a while trying to understand how to set up but now that we know we could finally get to work
+We were stuck for a while trying to understand how to set up but now that we know we could finally get to work.
+
+### Our Build
+We finally build a 3d cube that rotates. This took us a while to figure out but it was fairly simple. The three.js documentation actually walekd us through the code but here is the code on how to make a rotation cube. 
+
+code:
+
+``
 
 [Previous](entry01.md) | [Next](entry03.md)
 
