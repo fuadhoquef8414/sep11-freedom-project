@@ -14,7 +14,7 @@ The sources we used is a the three.js documentary and a tutorial of how to use s
 We used the `three.js` channel on `slack` to see if anyone has any suggestions on how to approach this task. The answer is yes it is possible to move 3d models from other websites to `three.js`.
 
 
-[img](picture.png)
+[image to three.js code](picture.png)
 
 # EDP
 Me mnd Kyle designed a couple of shapes in our scene and it. We decided to use `(shapename)Geometry` to add more shapes and different types of shapes. We also have a full 3d model of a shoe done on `vectary.`
