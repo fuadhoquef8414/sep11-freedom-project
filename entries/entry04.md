@@ -12,8 +12,7 @@ Moving forward me and Kyle will be trying to go back to the `three.js` documenta
 is like so this could be very simple. 
 
 ### Skills
-There are a lot of skills that me and Kyle have developed throughout the Freedom Proeject. One skill that me and Kyle been doing and we have to get better at to do our research on how well certain tools and websites can help with our project without using them. For example, vectary is great for making 3d models but it isn't good for team collabortation. Speaking of team collaboration, me and Kyle have been working on communication more due to the schedule changes where we don't see each
-other at all during our SEP period and any other class period. 
+There are a lot of skills that me and Kyle have developed throughout the Freedom Proeject. One skill that me and Kyle been doing and we have to get better at to do our research on how well certain tools and websites can help with our project without using them. For example, vectary is great for making 3d models but it isn't good for team collabortation. Speaking of team collaboration, me and Kyle have been working on communication more due to the schedule changes where we don't see each other at all during our SEP period and any other class period. 
 
 ### Sources 
 
