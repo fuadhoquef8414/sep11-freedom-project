@@ -15,6 +15,8 @@ In the beginnning of our project me and Kyle thought that making 3d models would
 Me and Kyle worked very hard for the past month to get our model imported into `three.js`. Now that we had it done, all we had to do was make the shoe more detailed. 
 Everyday Me and Kyle tried to keep adding more edits to the model to make the model look more like a shoe. Eventually we kept making so many edits that our vectary stopped loading so we 
 we stuck with that final product. That was the model we used for our Freedom Project. 
+Also we had to use our knowledge on Javascript to help us use `three.js`. We had to learn how to make the shoe orbit. It was pretty simple. All you had to do is use `model.rotation` and set it to a certain number. Also we coded lighting to our scene to make the visuals look more polished. 
+
 
 ### Skill
 The skills that me and Kyle got to work on was mainly presentation. Since we had an SEP expo in the school and an actual presentation for our project in class me and Kyle had to find ways to 
